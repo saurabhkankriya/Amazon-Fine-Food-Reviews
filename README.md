@@ -29,7 +29,7 @@ Given a review, determine whether the review is positive (rating of 4 or 5) or n
 2. kNN
 3. Logistic Regression
 4. Navie Bayes
-5. Random Forest, Gradient Boosting Decsion Trees, Xgboost
+5. Random Forest, Gradient Boosting Decsion Trees, lightGBM
 6. Support Vector Machine
 
 **The Unsupervised Algorithms used are:**
